@@ -6,3 +6,4 @@ feewewww -brach
 feewewww
 Конфликт
 >>>>>>> branch_conflict
+addddd
